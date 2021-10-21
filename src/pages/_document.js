@@ -32,15 +32,15 @@ export default class MyDocument extends Document {
       <Html lang='en-GB'>
         <Head>
           <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
-          <meta name="title" content="Vipul Jha - Android & Flutter Dev" />
-          <meta name="description" content="Hey there, This is Vipul Jha aka lordarcadius. I am an Android & Flutter developer who also works on ROMs, Kernels, & Scripts." />
+          <meta name="title" content="Lotfi Bokhari - Software engineer" />
+          <meta name="description" content="Hey there, This is Lotfi Bokhari. I am a software engineer who builds complex information systems that makes your life easier." />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="Vipul Jha - Android & Flutter Dev" />
-          <meta property="og:description" content="Hey there, This is Vipul Jha aka lordarcadius. I am an Android & Flutter developer who also works on ROMs, Kernels, & Scripts." />
+          <meta property="og:title" content="Lotfi Bokhari - Software engineer" />
+          <meta property="og:description" content="Hey there, This is Lotfi Bokhari. I am a software engineer who builds complex information systems that makes your life easier." />
           <meta property="og:image" content="https://www.vipuljha.com/images/banner.png" />
           <meta property="twitter:card" content="summary_large_image" />
-          <meta property="twitter:title" content="Vipul Jha - Android & Flutter Dev" />
-          <meta property="twitter:description" content="Hey there, This is Vipul Jha aka lordarcadius. I am an Android & Flutter developer who also works on ROMs, Kernels, & Scripts." />
+          <meta property="twitter:title" content="Lotfi Bokhari - Software engineer" />
+          <meta property="twitter:description" content="Hey there, This is Lotfi Bokhari. I am a software engineer who builds complex information systems that makes your life easier." />
           <meta property="twitter:image" content="https://www.vipuljha.com/images/banner.png" />
         </Head>
         <body>

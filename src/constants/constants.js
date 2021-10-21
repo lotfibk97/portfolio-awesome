@@ -57,10 +57,10 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2016, text: 'Started my journey as a new developer.', },
-  { year: 2017, text: 'Worked intensively on ROMs & Kernels.', },
-  { year: 2018, text: 'Learned Android app development.', },
-  { year: 2019, text: 'Finished Diploma in Computer Engineering.', },
-  { year: 2020, text: 'Got a scholarship from the Delhi government.', },
-  { year: 2021, text: 'Still trying to figure out this weird year.', },
+  { year: 2015, text: 'Started my journey as a new software engineer.', },
+  { year: 2016, text: 'I learned python and java with OOP programming.', },
+  { year: 2017, text: 'Started working on my first project (omg-dat-cms).', },
+  { year: 2018, text: 'Finished my Bachelor degree in software engineering, and started working with ELCS RESEARCH.', },
+  { year: 2019, text: 'Started my master degree in AI, while still working with ELCS RESEARCH as a software engineer.', },
+  { year: 2020, text: 'Finished my master degree, and started learning about blockchain technology.', },
 ];
