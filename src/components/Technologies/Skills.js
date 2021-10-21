@@ -4,22 +4,22 @@ import { RiFlutterFill } from "react-icons/ri";
 
 export const Skills = [
   {
-    slug: "android",
+    slug: "django",
     Component: DiAndroid,
-    title: "Android",
-    Description: () => <>I work on ROMs, Kernels & Android Apps using Java.</>,
+    title: "Django",
+    Description: () => <>My favourite framework, Django offers a lot of tools without being more complcated than necessary.</>,
   },
   {
-    slug: "flutter",
+    slug: "python",
     Component: RiFlutterFill,
-    title: "Flutter",
-    Description: () => <>Currently working with Dart & Flutter for app development. </>,
+    title: "Python",
+    Description: () => <>My main language, Python is one of the most popular language today. </>,
   },
   {
-    slug: "java",
+    slug: "linux",
     Component: SiJava,
-    title: "Java",
-    Description: () => <>I can code in Java. But I mainly use it for Android app development.</>,
+    title: "Linux",
+    Description: () => <>I have been working on linux environments for more than 8 years.</>,
   },
   {
     slug: "terminal",
@@ -28,10 +28,10 @@ export const Skills = [
     Description: () => <>I have written dozens of Shell scripts for various purposes.</>,
   },
   {
-    slug: "firebase",
+    slug: "postgresql",
     Component: SiFirebase,
-    title: "Firebase",
-    Description: () => <>I have used Firebase for auth, database & analytics in my apps.</>,
+    title: "PostgreSQL",
+    Description: () => <>I have used PostgreSQL in all of my large scale web apps.</>,
   },
   {
     slug: "git",
