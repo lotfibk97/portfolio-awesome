@@ -1,5 +1,15 @@
 import styled from 'styled-components';
 
+
+export const Imgg = styled.img`
+  width:50%;
+  height:35%;
+  object-fit: cover;
+  overflow: hidden;
+  border-radius: 50%;
+`
+
+
 export const Img = styled.img`
   width:100%;
   height:100%;
