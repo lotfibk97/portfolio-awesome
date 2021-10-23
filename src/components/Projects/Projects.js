@@ -37,14 +37,10 @@ const Projects = () => (
             <UtilityList>
               <ExternalLinks href={p.visit}>Live Preview</ExternalLinks>
               <ExternalLinks href={p.source}>Source Code</ExternalLinks>
-            <div class="container">
-  <h1 class="display-4 text-center mb-4">Sample Modal</h1>
 
-  <div class="row mb-4">
-    <div class="col text-center">
-      <a href="#" class="btn btn-lg btn-primary" data-toggle="modal" data-target="#largeModal">Click to open Modal</a>
-    </div>
-  </div>
+
+      <ExternalLinks href="#" class="btn btn-lg btn-primary" data-toggle="modal" data-target="#largeModal">ScreenShots</ExternalLinks>
+
 
 
   <div class="modal fade" id="largeModal" tabindex="-1" role="dialog" aria-labelledby="basicModal" aria-hidden="true">
@@ -114,7 +110,7 @@ const Projects = () => (
       </div>
     </div>
   </div>
-  </div>
+
             </UtilityList>
           </BlogCard>
         );
