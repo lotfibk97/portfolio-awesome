@@ -39,7 +39,8 @@ const Projects = () => (
               <ExternalLinks href={p.source}>Source Code</ExternalLinks>
 
 
-      <ExternalLinks href="#" class="btn btn-lg btn-primary" data-toggle="modal" data-target="#largeModal">ScreenShots</ExternalLinks>
+      <ExternalLinks href="#"  data-toggle="modal" data-target="#largeModal">ScreenShots</ExternalLinks>
+      </UtilityList>
 
 
 
@@ -111,7 +112,7 @@ const Projects = () => (
     </div>
   </div>
 
-            </UtilityList>
+            
           </BlogCard>
         );
       })}
