@@ -37,11 +37,11 @@ export default class MyDocument extends Document {
           <meta property="og:type" content="website" />
           <meta property="og:title" content="Lotfi Bokhari - Software engineer" />
           <meta property="og:description" content="Hey there, This is Lotfi Bokhari. I am a software engineer who builds complex information systems that makes your life easier." />
-          <meta property="og:image" content="https://www.vipuljha.com/images/banner.png" />
+          <meta property="og:image" content="https://www.linkedin.com/in/lotfibokhari/detail/background-image/" />
           <meta property="twitter:card" content="summary_large_image" />
           <meta property="twitter:title" content="Lotfi Bokhari - Software engineer" />
           <meta property="twitter:description" content="Hey there, This is Lotfi Bokhari. I am a software engineer who builds complex information systems that makes your life easier." />
-          <meta property="twitter:image" content="https://www.vipuljha.com/images/banner.png" />
+          <meta property="twitter:image" content="https://www.linkedin.com/in/lotfibokhari/detail/background-image/" />
           <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"></link>
         </Head>
         <body>

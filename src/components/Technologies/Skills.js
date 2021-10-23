@@ -1,23 +1,23 @@
-import { DiAndroid, DiTerminal } from "react-icons/di";
-import { SiJava, SiFirebase, SiGit } from "react-icons/si";
-import { RiFlutterFill } from "react-icons/ri";
+import { DiAndroid, DiTerminal, DiDjango, DiPython, DiPostgresql } from "react-icons/di";
+import { SiGit, SiPostgresql } from "react-icons/si";
+import { FcLinux } from "react-icons/fc";
 
 export const Skills = [
   {
     slug: "django",
-    Component: DiAndroid,
+    Component: DiDjango,
     title: "Django",
     Description: () => <>My favourite framework, Django offers a lot of tools without being more complcated than necessary.</>,
   },
   {
     slug: "python",
-    Component: RiFlutterFill,
+    Component: DiPython,
     title: "Python",
     Description: () => <>My main language, Python is one of the most popular language today. </>,
   },
   {
     slug: "linux",
-    Component: SiJava,
+    Component: FcLinux,
     title: "Linux",
     Description: () => <>I have been working on linux environments for more than 8 years.</>,
   },
@@ -29,7 +29,7 @@ export const Skills = [
   },
   {
     slug: "postgresql",
-    Component: SiFirebase,
+    Component: SiPostgresql,
     title: "PostgreSQL",
     Description: () => <>I have used PostgreSQL in all of my large scale web apps.</>,
   },
