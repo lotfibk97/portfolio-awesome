@@ -6,12 +6,6 @@
 
 A portfolio built in React and NextJS. Simple, clean and fast.
 
-**Note: The logo and banner used in the project are my intellectual property. Please refrain from using it anywhere.**
-
-
-
-![App Screenshot](https://i.ibb.co/tM4chbH/Screenshot-20210621-232737.png)
-
   
 ## Demo
 
@@ -48,7 +42,7 @@ Please make sure to maintain `authorship`.
 - [@adrianhajdin](https://github.com/adrianhajdin) (The original author)
 - [@lordarcadius](https://github.com/lordarcadius) (I just fixed and modified few things)
 - [@dhruvsaxena1998](https://github.com/dhruvsaxena1998) (For help and PR)
-
+- [@WassilDahi](https://github.com/WassilDahi) (Great help)
   
 ## License
 
