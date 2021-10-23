@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'Medical cabinet management',
     description: "This software allows to manage a medical cabinet from the patient arrival to the billing.",
-    image: '/images/eb.jpg',
+    image: '/images/medical/medical.png',
     tags: ['Python', ' Django', ' HTML', ' CSS', ' JQuery', ' Bootstrap', ' PostgreSQL'],
     source: 'https://github.com/lordarcadius/electrablue_mido',
     visit: 'https://forum.xda-developers.com/t/kernel-mido-oreo-pie-electrablue-kernel-21-0-july-06-redmi-note-4.3655651/',
