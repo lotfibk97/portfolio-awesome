@@ -15,11 +15,12 @@ const Hero = (props) => (
           Hey there,
         </SectionTitle>
         <SectionText>
-          Hey there, This is Lotfi Bokhari. I am a software engineer who builds complex information systems that makes your life easier.
+          Hey there, This is Lotfi Bokhari. I am a software engineer who builds complex information systems that make your life easier.
         </SectionText>
         <Button onClick={(e) => {
           e.preventDefault();
-          window.location.href = '/files/Resume.pdf';
+          //window.location.href = '/files/Resume.pdf';
+          window.open('/files/Resume.pdf', "_blank");
         }}>My Resume</Button>
       </LeftSection>
     </Section>
