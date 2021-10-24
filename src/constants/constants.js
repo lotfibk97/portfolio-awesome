@@ -7,7 +7,7 @@ export const projects = [
     source: '',
     visit: '',
     id: 0,
-    screens: ['/images/covid.jpg', '/images/covid.jpg']
+    screens: ['/images/covid.jpg']
   },
   {
     title: 'Supply chain with Blockchain technology',
@@ -27,7 +27,7 @@ export const projects = [
     source: '',
     visit: '',
     id: 2,
-    screens: ['/images/covid.jpg', '/images/covid.jpg']
+    screens: ['/images/covid.jpg', '/images/covid.jpg', '/images/covid.jpg']
   },
   {
     title: 'Medical cabinet management',
@@ -37,7 +37,7 @@ export const projects = [
     source: 'https://github.com/lordarcadius/electrablue_mido',
     visit: 'https://forum.xda-developers.com/t/kernel-mido-oreo-pie-electrablue-kernel-21-0-july-06-redmi-note-4.3655651/',
     id: 3,
-    screens: ['/images/covid.jpg', '/images/covid.jpg']
+    screens: ['/images/covid.jpg', '/images/covid.jpg', '/images/covid.jpg', '/images/covid.jpg']
   },
  
 ];

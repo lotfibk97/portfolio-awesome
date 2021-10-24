@@ -98,11 +98,15 @@ const Projects = () => (
                       </ol>
                       <div class='carousel-inner'>
                         {p.screens.map((s, j) => {
-                          return (
+                          return (j==0?(
                             <div class='carousel-item active'>
                               <img class='img-size' src={s} alt='First slide' />
                             </div>
-                          );
+                          ):(
+                            <div class='carousel-item'>
+                              <img class='img-size' src={s} alt='First slide' />
+                            </div>
+                          ));
                         })}
                         {/*}
                         <div class='carousel-item'>
