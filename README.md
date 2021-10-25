@@ -43,6 +43,7 @@ Please make sure to maintain `authorship`.
 - [@lordarcadius](https://github.com/lordarcadius) (I just fixed and modified few things)
 - [@dhruvsaxena1998](https://github.com/dhruvsaxena1998) (For help and PR)
 - [@WassilDahi](https://github.com/WassilDahi) (Great help)
+- [@Mounir4023](https://github.com/mounir4023) (The king of javascript)
   
 ## License
 
