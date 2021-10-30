@@ -1,5 +1,5 @@
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/lordarcadius/portfolio/blob/master/LICENSE)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/lotfibk97/portfolio-awesome/blob/master/LICENSE)
 
   
 # Personal Portfolio
