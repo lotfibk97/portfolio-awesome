@@ -9,7 +9,7 @@ A portfolio built in React and NextJS. Simple, clean and fast.
   
 ## Demo
 
-[Live Preview](lotfibokhari.vercel.app/)
+[Live Preview](https://lotfibokhari.vercel.app/)
 
 ## Run Project 
 
