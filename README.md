@@ -40,8 +40,9 @@ Please make sure to maintain `authorship`.
 ## Credits
 
 - [@adrianhajdin](https://github.com/adrianhajdin) (The original author)
-- [@lordarcadius](https://github.com/lordarcadius) (I just fixed and modified few things)
+- [@lordarcadius](https://github.com/lordarcadius) (He just fixed and modified few things)
 - [@dhruvsaxena1998](https://github.com/dhruvsaxena1998) (For help and PR)
+- [@lotfibk97](https://github.com/lotfibk97) (I just modified a few things)
 - [@WassilDahi](https://github.com/WassilDahi) (Great help)
 - [@Mounir4023](https://github.com/mounir4023) (The king of javascript)
   
